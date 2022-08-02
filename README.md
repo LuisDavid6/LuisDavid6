@@ -7,7 +7,7 @@
     As an organized and highly motivated person, I am capable of adapting to any circumstance and always giving my best in any project, while at the same time making an effort to work as a team and promote values such as camaraderie.<br/><br/>
     I have also had the opportunity to work in a team where I was able to familiarize myself with agile methodologies (SCRUM), as well as develop communication skills that facilitate progress towards a common goal in an efficient and harmonious manner.
 </p>
-
+<br/><br/>
 
 ## My Tech skills 🧑‍💻:
 
@@ -25,7 +25,7 @@
     
 </ul>
 
-&nbsp;&nbsp;
+<br/><br/>
 
 # My Projects:
 
