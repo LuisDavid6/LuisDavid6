@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;
 
-# My Proyects:
+# My Projects:
 
 <h2>Countries App 🌎</h2>
 <p>
