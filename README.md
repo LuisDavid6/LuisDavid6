@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Luis 👋🧑‍💻</h1>
 
 <br/>
-<p style="margin:'50px'">
+<p>
     I'm a Full Stack developer, I am currently finishing the SoyHenry bootcamp where I have acquired a lot of technical knowledge and developed personal skills, which have helped me grow in this world of technology.<br/><br/>
     I consider myself a person passionate about constant learning, focused on the search for new challenges where I can put my skills to the test while acquiring new knowledge.<br/><br/>
     As an organized and highly motivated person, I am capable of adapting to any circumstance and always giving my best in any project, while at the same time making an effort to work as a team and promote values such as camaraderie.<br/><br/>
