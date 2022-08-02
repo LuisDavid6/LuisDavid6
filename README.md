@@ -1,5 +1,6 @@
 <h1 align="center"> Hi I'm Luis 👋🧑‍💻</h1>
 
+<br/>
 <p style="margin:35px">
     I'm a Full Stack developer, I am currently finishing the SoyHenry bootcamp where I have acquired a lot of technical knowledge and developed personal skills, which have helped me grow in this world of technology.<br/><br/>
     I consider myself a person passionate about constant learning, focused on the search for new challenges where I can put my skills to the test while acquiring new knowledge.<br/><br/>
