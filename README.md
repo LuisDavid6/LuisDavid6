@@ -41,7 +41,6 @@
 <p>
 <code><img width="45%" height="200px" src="./assets/netflix1.png"></code>
 <code><img width="45%" height="200px" src="./assets/netflix4.png"></code>
-
 </p>
 
 &nbsp;&nbsp;
@@ -50,8 +49,8 @@
 <p>
 <code><img width="45%" height="200px" src="./assets/techstore1.png"></code>
 <code><img width="45%" height="200px" src="./assets/techstore2.png"></code>
-
 </p>
+&nbsp;&nbsp;
 
 <h2>MoonCinema 🍿🍿</h2>
 <p>
