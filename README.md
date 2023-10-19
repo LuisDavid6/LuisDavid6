@@ -39,8 +39,8 @@
 
 <h2>Netflix Clone 🎦</h2>
 <p>
-<code><img width="50%" height="200px" src="./assets/netflix1.png"></code>
-<code><img width="50%" height="200px" src="./assets/netflix4.png"></code>
+<code><img width="45%" height="200px" src="./assets/netflix1.png"></code>
+<code><img width="45%" height="200px" src="./assets/netflix4.png"></code>
 
 </p>
 
@@ -48,13 +48,13 @@
 
 <h2>TechStore 🛒📲💻</h2>
 <p>
-<code><img width="50%" height="200px" src="./assets/techstore1.png"></code>
-<code><img width="50%" height="200px" src="./assets/techstore2.png"></code>
+<code><img width="45%" height="200px" src="./assets/techstore1.png"></code>
+<code><img width="45%" height="200px" src="./assets/techstore2.png"></code>
 
 </p>
 
 <h2>MoonCinema 🍿🍿</h2>
 <p>
-<code><img width="50%" height="200px" src="./assets/cine1.png"></code>
-<code><img width="50%" height="200px" src="./assets/cine2.png"></code>
+<code><img width="45%" height="200px" src="./assets/cine1.png"></code>
+<code><img width="45%" height="200px" src="./assets/cine2.png"></code>
 </p>
