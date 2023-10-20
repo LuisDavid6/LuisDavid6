@@ -20,7 +20,7 @@
 
 ## My Tech skills 🧑‍💻:
 
-<div style="display: flex; flex-direction: row; justify-content: left; align-items: center; text-align: center; gap: 3px">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; text-align: center; gap: 3px">
   <div>
     <img src="assets/js.png" alt="JavaScript" width="40px" />  </br>
     <img  src="https://img.shields.io/badge/JavaScript-informational?style=plastic&color=F3CE16" alt="JavaScript" /> 
