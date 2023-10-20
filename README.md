@@ -26,72 +26,58 @@
       <img src="assets/js.png" alt="JavaScript" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/JavaScript-informational?style=plastic&color=F3CE16" alt="JavaScript" /> 
     </div>
-  
     <div>
       <img src="assets/ts.png" alt="TypeScript" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/TypeScript-informational?style=plastic&color=informational" alt="TypeScript" /> 
     </div>
-  
     <div>
       <img src="assets/html.png" alt="HTML" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/HTML-informational?style=plastic&color=orange" alt="HTML" /> 
     </div>
-  
     <div>
       <img src="assets/css.png" alt="CSS" width="36px" />  </br>
       <img  src="https://img.shields.io/badge/CSS-informational?style=flplasticat&color=informational" alt="CSS" />
     </div>
-  
     <div>
       <img src="assets/react.png" alt="React" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/React-informational?style=plastic&color=informational" alt="React" />
     </div>
-  
     <div>
       <img src="assets/next.png" alt="Next" width="41px" />  </br>
       <img  src="https://img.shields.io/badge/Next-informational?style=flat&color=black" alt="Next" />
     </div>
-  
     <div>
       <img src="assets/next-auth.png" alt="Next-Auth" width="38px" />  </br>
       <img  src="https://img.shields.io/badge/Next Auth-informational?style=plastic&color=gray" alt="Nest" />
     </div>
-  
     <div>
       <img src="assets/node.png" alt="Node" width="37px" />  </br>
       <img  src="https://img.shields.io/badge/Node-informational?style=plastic&color=green" alt="Node" />
     </div>
-  
     <div>
       <img src="assets/nest.png" alt="Nest" width="43px" />  </br>
       <img  src="https://img.shields.io/badge/Nest-informational?style=plastic&color=red" alt="Nest" />
     </div>
-  
     <div>
       <img src="assets/prisma.png" alt="Prisma" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/Prisma-informational?style=plastic&color=white" alt="Prisma" />
     </div>
-  
     <div>
       <img src="assets/mongo.png" alt="MongoDB" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/MongoDB-informational?style=plastic&color=green" alt="MongoDB" />
     </div>
-  
     <div>
       <img src="assets/postgre.png" alt="PostgreSQL" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/PostgreSQL-informational?style=plastic&color=blue" alt="PostgreSQL" />
     </div>
-  
     <div>
       <img src="assets/tailwind.png" alt="Tailwind" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/Tailwind-informational?style=plastic&color=blue" alt="Tailwind" />
     </div>
-  
     <div>
       <img src="assets/bootstrap.png" alt="Bootstrap" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/Bootstrap-informational?style=plastic&color=7828B7" alt="Bootstrap" />
     </div>
-  
     <div>
       <img src="assets/chakra.png" alt="Chakra" width="40px" />  </br>
       <img  src="https://img.shields.io/badge/Chakra-informational?style=plastic&color=3FF4D9" alt="Chakra" />
