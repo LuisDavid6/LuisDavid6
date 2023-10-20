@@ -8,103 +8,56 @@
 
 - 💡 I’m currently learning **Angular and React Native**
 
-- 🤝 I’m looking for help with **Creation of websites and support of open source projects**
-
 - 💼 All of my projects are available at [https://portfolio-luisdavid.vercel.app](https://portfolio-luisdavid.vercel.app)
 
 - 📫 How to reach me **luisdavid.0698@gmail.com**
 
-<br/><br/>
+<br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luisDavid6" alt="Luis David Patiño" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luisDavid6" alt="Profile views" /> </p>
 
 ## My Tech skills 🧑‍💻:
 
-<div align="center">
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; text-align: center; gap: 3px;">
-    <div>
-      <img src="assets/js.png" alt="JavaScript" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/JavaScript-informational?style=plastic&color=F3CE16" alt="JavaScript" /> 
-    </div>
-    <div>
-      <img src="assets/ts.png" alt="TypeScript" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/TypeScript-informational?style=plastic&color=informational" alt="TypeScript" /> 
-    </div>
-    <div>
-      <img src="assets/html.png" alt="HTML" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/HTML-informational?style=plastic&color=orange" alt="HTML" /> 
-    </div>
-    <div>
-      <img src="assets/css.png" alt="CSS" width="36px" />  </br>
-      <img  src="https://img.shields.io/badge/CSS-informational?style=flplasticat&color=informational" alt="CSS" />
-    </div>
-    <div>
-      <img src="assets/react.png" alt="React" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/React-informational?style=plastic&color=informational" alt="React" />
-    </div>
-    <div>
-      <img src="assets/next.png" alt="Next" width="41px" />  </br>
-      <img  src="https://img.shields.io/badge/Next-informational?style=flat&color=black" alt="Next" />
-    </div>
-    <div>
-      <img src="assets/next-auth.png" alt="Next-Auth" width="38px" />  </br>
-      <img  src="https://img.shields.io/badge/Next Auth-informational?style=plastic&color=gray" alt="Nest" />
-    </div>
-    <div>
-      <img src="assets/node.png" alt="Node" width="37px" />  </br>
-      <img  src="https://img.shields.io/badge/Node-informational?style=plastic&color=green" alt="Node" />
-    </div>
-    <div>
-      <img src="assets/nest.png" alt="Nest" width="43px" />  </br>
-      <img  src="https://img.shields.io/badge/Nest-informational?style=plastic&color=red" alt="Nest" />
-    </div>
-    <div>
-      <img src="assets/prisma.png" alt="Prisma" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/Prisma-informational?style=plastic&color=white" alt="Prisma" />
-    </div>
-    <div>
-      <img src="assets/mongo.png" alt="MongoDB" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/MongoDB-informational?style=plastic&color=green" alt="MongoDB" />
-    </div>
-    <div>
-      <img src="assets/postgre.png" alt="PostgreSQL" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/PostgreSQL-informational?style=plastic&color=blue" alt="PostgreSQL" />
-    </div>
-    <div>
-      <img src="assets/tailwind.png" alt="Tailwind" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/Tailwind-informational?style=plastic&color=blue" alt="Tailwind" />
-    </div>
-    <div>
-      <img src="assets/bootstrap.png" alt="Bootstrap" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/Bootstrap-informational?style=plastic&color=7828B7" alt="Bootstrap" />
-    </div>
-    <div>
-      <img src="assets/chakra.png" alt="Chakra" width="40px" />  </br>
-      <img  src="https://img.shields.io/badge/Chakra-informational?style=plastic&color=3FF4D9" alt="Chakra" />
-    </div>
-  </div>
+<div>
+  <img src="https://img.shields.io/badge/javascript-FEE40D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="154px" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="154px" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="108px" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="95px" />
+  <img src="https://img.shields.io/badge/react-16B7FB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" width="106px" />
+  <img src="https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" width="98px" />
+  <img src="https://img.shields.io/badge/node.js-288711?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" width="125px" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" width="115px" />
+  <img src="https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" width="118px" />
+  <img src="https://img.shields.io/badge/MongoDB-269C09?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="136px" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="140px" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" width="172px" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="152px" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" width="122px" />
 </div>
 
-<br/><br/>
+<br/>
+
+## Github Profile Thophy 🏆:
+
+![](https://github-profile-trophy.vercel.app/?username=luisdavid6&theme=onestar)
+
+<br/>
 
 ## Statistics 📊:
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&theme=dark&locale=en&layout=compact" alt="Luis David Patiño" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&locale=en&layout=compact" alt="Luis David Patiño" height="150" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&theme=dark&locale=en" alt="Luis David Patiño" /> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&theme=dark" alt="Luis David Patiño" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&&locale=en" alt="Luis David Patiño" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&hide_border=true&theme=github-dark-blue" alt="Luis David Patiño" height="150"/> 
 </p>
 
 <br/>
 
 <a href="mailto:luisdavid.0698@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/luis-david-patino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
