@@ -2,7 +2,7 @@
 
 <br/>
 
-- -👨‍💻 I'm a Full Stack developer
+- 👨‍💻 I'm a Full Stack developer
 
 - 🛠️ I’m currently working on Rockdidit
 
@@ -16,7 +16,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luisDavid6" alt="Profile views" /> </p>
 
-## My Tech skills 🧑‍💻:
+## 🧑‍💻 My Tech skills
 
 <div>
   <img src="https://img.shields.io/badge/javascript-FEE40D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="154px" />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="108px" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="95px" />
   <img src="https://img.shields.io/badge/react-16B7FB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" width="106px" />
-  <img src="https://img.shields.io/badge/Next-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" width="98px" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" width="98px" />
   <img src="https://img.shields.io/badge/node.js-288711?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" width="125px" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" width="115px" />
   <img src="https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" width="118px" />
@@ -37,21 +37,21 @@
 
 <br/>
 
-## Github Profile Thophy 🏆:
+## 🏆Github Profile Thophy
 
 ![](https://github-profile-trophy.vercel.app/?username=luisdavid6&theme=onestar)
 
 <br/>
 
-## Statistics 📊:
+## 📊 Statistics
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&locale=en&layout=compact" alt="Luis David Patiño" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&hide_border=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="Luis David Patiño" height="150" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&&locale=en" alt="Luis David Patiño" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&hide_border=true&theme=github-dark-blue" alt="Luis David Patiño" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&hide_border=true&theme=github_dark&bg_color=000000&&locale=en" alt="Luis David Patiño" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&hide_border=true&theme=github-dark-blue&background=000000" alt="Luis David Patiño" height="150"/> 
 </p>
 
 <br/>
