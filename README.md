@@ -6,7 +6,9 @@
 
 - 🛠️ I’m currently working on Rockdidit
 
-- 💡 I’m currently learning **Angular and React Native**
+- 💡 I’m currently learning
+  <img src="https://img.shields.io/badge/Angular-white?style=plastic&logo=angular&color=D11111" alt="JavaScript" style="margin-bottom:-5px; margin-left:5px"/>
+  <img src="https://img.shields.io/badge/React%20Native-white?style=plastic&logo=react&color=16BAF3&logoColor=white" alt="JavaScript" style="margin-bottom:-5px; margin-left:5px"/>
 
 - 💼 All of my projects are available at [https://portfolio-luisdavid.vercel.app](https://portfolio-luisdavid.vercel.app)
 
@@ -28,6 +30,7 @@
   <img src="https://img.shields.io/badge/node.js-288711?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" width="125px" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest" width="115px" />
   <img src="https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" width="118px" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width="132px" />
   <img src="https://img.shields.io/badge/MongoDB-269C09?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="136px" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="140px" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" width="172px" />
