@@ -1,4 +1,6 @@
-<h1 align="center"> Hi I'm Luis 👋🧑‍💻</h1>
+<p>
+  <h1 align="center"> Hi I'm Luis 👋🧑‍💻</h1>
+</p>
 
 <br/>
 
@@ -40,7 +42,7 @@
 
 <br/>
 
-## 🏆Github Profile Thophy
+## 🏆Github Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=luisdavid6&theme=onestar)
 
@@ -49,12 +51,12 @@
 ## 📊 Statistics
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&hide_border=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="Luis David Patiño" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisDavid6&show_icons=true&hide_border=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="stats top langs" height="150" /> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&hide_border=true&theme=github_dark&bg_color=000000&&locale=en" alt="Luis David Patiño" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&hide_border=true&theme=github-dark-blue&background=000000" alt="Luis David Patiño" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=luisDavid6&show_icons=true&hide_border=true&theme=github_dark&bg_color=000000&&locale=en" alt="Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisDavid6&hide_border=true&theme=github-dark-blue&background=000000" alt="Streak" height="150"/> 
 </p>
 
 <br/>
